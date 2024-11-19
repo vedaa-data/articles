@@ -4,8 +4,10 @@
 
 ### Beginner
 
-* [Brief introduction to Scala]
+* [Brief introduction to Scala](/brief-intro-to-scala/brief-intro-to-scala.md)
 
-* [Working with `Option` in Scala]
+* [Working with `Option` in Scala](/working-with-option/working-with-option.md)
 
-* [Functions in Scala]
+### Intermediate
+
+* [Functions in Scala](/functions-in-scala/functions-in-scala.md)
