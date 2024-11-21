@@ -11,3 +11,8 @@
 ### Intermediate
 
 * [Functions in Scala](/functions-in-scala/functions-in-scala.md)
+
+
+## JavaFX
+
+[Brief introduction to JavaFX](/brief-introduction-to-javafx/brief-introduction-to-javafx.md)
