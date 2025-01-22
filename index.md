@@ -2,6 +2,8 @@
 
 ## Scala
 
+* [Style guide (WIP)](/scala-style-guide/scala-style-guide.md)
+
 ### Beginner
 
 * [Brief introduction to Scala](/brief-intro-to-scala/brief-intro-to-scala.md)
